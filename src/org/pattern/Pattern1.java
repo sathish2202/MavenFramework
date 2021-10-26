@@ -1,6 +1,9 @@
 package org.pattern;
 
 public class Pattern1 {
+	private void stuId() {
+	System.out.println("001122");
+	}
 	public static void main(String[] args) {
 		int rows = 7;
 		for (int i = 1; i <= 7; i++) {
